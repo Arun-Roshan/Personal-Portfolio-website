@@ -10,6 +10,9 @@ body {
     line-height: 1.6;
     background-color: #0d0d0d; /* Dark background */
     color: #fff;
+    /* background-image: url(black\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
 
 .container {
@@ -88,7 +91,7 @@ section#home {
 .home-content {
     max-width: 600px;
     margin-right: 50px;
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* Neon effect */
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.8); /* Neon effect */
 }
 
 .home-content h2 {
@@ -110,7 +113,7 @@ section#home {
 
 .btn {
     display: inline-block;
-    background-color: #ffc107; /* Yellow button */
+    background-color:  #2c7daf; /* Yellow button */
     color: #343a40; /* Dark text color */
     padding: 15px 30px;
     text-decoration: none;
@@ -120,7 +123,7 @@ section#home {
 }
 
 .btn:hover {
-    background-color: #ffca28; /* Lighter yellow on hover */
+    background-color: #7ff4ffc4; /* Lighter yellow on hover */
 }
 
 footer {

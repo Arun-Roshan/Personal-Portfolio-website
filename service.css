@@ -119,3 +119,7 @@ footer {
 .btn:hover {
     background-color: #4d4d4d; /* Darker background on hover */
 }
+
+h2 {
+    font-size: 80px;
+}

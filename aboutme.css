@@ -91,7 +91,7 @@ section#about-me {
     border: 5px solid #fff; /* White border */
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8), 0 0 45px rgba(255, 255, 255, 0.8), 0 0 60px rgba(255, 255, 255, 0.8); /* Neon effect */
     z-index: 1;
-    margin-top: 5%;
+    margin-top: 8%;
 }
 
 .bio,
@@ -120,3 +120,13 @@ footer {
     padding: 10px 0;
     margin-top: 50px;
 }
+
+h3 {
+    font-size: 100px;
+}
+
+p{
+    font-size: 20px;
+}
+
+

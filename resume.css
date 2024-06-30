@@ -101,7 +101,7 @@ section#resume {
 }
 
 .resume-links .btn:hover {
-    background-color: #4d4d4d; /* Darker background on hover */
+    background-color: #7cc4eb; /* Darker background on hover */
 }
 
 footer {
@@ -110,4 +110,8 @@ footer {
     text-align: center;
     padding: 10px 0;
     margin-top: 50px;
+}
+
+h2 {
+    font-size: 80px;
 }
